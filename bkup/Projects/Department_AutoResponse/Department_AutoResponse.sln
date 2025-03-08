@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Department_AutoResponse", "..\..\Websites\Department_AutoResponse\", "{D431DD0B-76A1-4880-8867-8E976D565A0E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Department_AutoResponse"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Department_AutoResponse\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Department_AutoResponse\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Department_AutoResponse"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Department_AutoResponse\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Department_AutoResponse\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56125"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D431DD0B-76A1-4880-8867-8E976D565A0E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D431DD0B-76A1-4880-8867-8E976D565A0E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
